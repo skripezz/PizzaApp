@@ -8,7 +8,7 @@
 - Заказчики (id, наименование, инн, адрес, телефон, продавец, покупатель)
 - Заказы (id, заказчик_id, номер_заказа, дата_заказа)
 - Заказы_Строки (id, заказ_id, продукция_id, количество, цена)
-
+Table:
 - Users (id, login, password, role, blocked, create_date)
 - Product (id, code, name, unit, price)
 - Material (id, code, name, unit,price)
